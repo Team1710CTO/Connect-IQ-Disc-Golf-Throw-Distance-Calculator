@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="15" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="16" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="17" pc="268435481" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="18" pc="268435499" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="19" pc="268435529" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="20" pc="268435559" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="24" pc="268435590" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="25" pc="268435592" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="26" pc="268435629" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="27" pc="268435659" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="29" pc="268435700" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="30" pc="268435730" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="32" pc="268435771" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="33" pc="268435801" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="39" pc="268435843" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="40" pc="268435845" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="43" pc="268435890" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="44" pc="268435892" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="45" pc="268435917" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="46" pc="268435942" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="50" pc="268435959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="52" pc="268435961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="58" pc="268435982" symbol="onHide"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="72" pc="268435985" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="73" pc="268435987" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="74" pc="268436004" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="75" pc="268436022" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="76" pc="268436066" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="80" pc="268436091" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="81" pc="268436093" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="87" pc="268436131" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="88" pc="268436133" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="89" pc="268436179" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="90" pc="268436223" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="91" pc="268436273" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="94" pc="268436324" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="95" pc="268436326" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="96" pc="268436357" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="97" pc="268436388" symbol="onPosition"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="101" pc="268436405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="103" pc="268436407" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="106" pc="268436424" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="109" pc="268436444" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="110" pc="268436458" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="111" pc="268436488" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="112" pc="268436525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="113" pc="268436564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="115" pc="268436619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="116" pc="268436656" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="117" pc="268436670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="118" pc="268436689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="121" pc="268436708" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="123" pc="268436721" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="124" pc="268436849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="125" pc="268436866" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="126" pc="268436912" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="127" pc="268436937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="128" pc="268436974" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="129" pc="268437000" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="131" pc="268437102" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="133" pc="268437204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="135" pc="268437277" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="137" pc="268437324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="140" pc="268437371" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="143" pc="268437418" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="149" pc="268437471" symbol="getInitLat"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="150" pc="268437473" symbol="getInitLat"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="153" pc="268437517" symbol="getInitLon"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="154" pc="268437519" symbol="getInitLon"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="160" pc="268437563" symbol="onHide"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="163" pc="268437566" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="164" pc="268437568" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="165" pc="268437602" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="166" pc="268437609" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="167" pc="268437643" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="174" pc="268437661" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="175" pc="268437663" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="178" pc="268437682" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="179" pc="268437684" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="182" pc="268437722" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="183" pc="268437724" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="184" pc="268437741" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="185" pc="268437759" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="188" pc="268437815" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="189" pc="268437817" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="192" pc="268437838" symbol="onHide"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="10" pc="268437842" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="11" pc="268437844" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="12" pc="268437862" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="15" pc="268437893" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="16" pc="268437895" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="17" pc="268437906" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="18" pc="268437927" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="20" pc="268438013" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="29" pc="268438038" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="30" pc="268438040" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="31" pc="268438058" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="32" pc="268438088" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="35" pc="268438106" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="37" pc="268438108" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="38" pc="268438108" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="39" pc="268438141" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="40" pc="268438165" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="41" pc="268438189" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="43" pc="268438213" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="44" pc="268438224" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="45" pc="268438232" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="46" pc="268438277" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="48" pc="268438352" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="51" pc="268438438" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="52" pc="268438446" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="53" pc="268438491" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="55" pc="268438566" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="58" pc="268438652" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="59" pc="268438660" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="60" pc="268438705" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="62" pc="268438780" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="65" pc="268438855" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="9" pc="268438877" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="10" pc="268438879" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="13" pc="268438898" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="14" pc="268438900" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="15" pc="268438984" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="18" pc="268438988" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="20" pc="268438990" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="26" pc="268439063" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="27" pc="268439065" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="30" pc="268439084" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="31" pc="268439086" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="32" pc="268439170" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="35" pc="268439174" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="37" pc="268439176" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="6" pc="268439249" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="7" pc="268439251" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="8" pc="268439268" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="9" pc="268439286" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="10" pc="268439307" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="13" pc="268439332" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="14" pc="268439353" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="17" pc="268439378" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="18" pc="268439399" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="21" pc="268439424" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="22" pc="268439445" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="27" pc="268439471" symbol="onStart"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="31" pc="268439474" symbol="onStop"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="35" pc="268439477" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="36" pc="268439479" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="17" pc="268439547" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268439549" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268439567" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268439589" symbol="initialize"/>
+<entry filename="Rez" lineNum="29" pc="268439612" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268439614" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268439632" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268439654" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268439676" symbol="initialize"/>
+<entry filename="Rez" lineNum="48" pc="268439699" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="50" pc="268439701" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268439877" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268439902" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="53" pc="268439954" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="54" pc="268440130" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="55" pc="268440155" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="56" pc="268440207" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="57" pc="268440383" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="58" pc="268440408" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="61" pc="268440460" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268440498" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="72" pc="268440500" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="73" pc="268440643" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="74" pc="268440668" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="75" pc="268440720" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="76" pc="268440766" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="77" pc="268440874" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="78" pc="268440982" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="81" pc="268441090" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="90" pc="268441138" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="92" pc="268441140" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="93" pc="268441261" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="94" pc="268441397" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="95" pc="268441422" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="98" pc="268441468" symbol="SaveThrowLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="13" object="true" symbol="SaveThrowMenuDelegate"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="31" object="true" symbol="MainMenu"/>
+<entry field="true" id="22" symbol="longest_throw"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="23" symbol="init_found"/>
+<entry id="27" method="true" symbol="getInitLon"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="33" method="true" symbol="MainLayout"/>
+<entry field="true" id="37" symbol="best_mid_label"/>
+<entry field="true" id="42" symbol="longest_drive_label"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="14" object="true" symbol="DiscGolfDelegate"/>
+<entry id="8" object="true" symbol="DiscGolfView"/>
+<entry id="35" method="true" symbol="SaveThrowLayout"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry field="true" id="36" symbol="best_putt_label"/>
+<entry id="26" method="true" symbol="getInitLat"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="41" symbol="AppName"/>
+<entry field="true" id="20" symbol="lat_init"/>
+<entry id="9" object="true" symbol="MeasureView"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="43" symbol="longest_mid_label"/>
+<entry field="true" id="47" symbol="longest_putt"/>
+<entry field="true" id="18" symbol="app"/>
+<entry field="true" id="45" symbol="longest_drive"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="30" symbol="LauncherIcon"/>
+<entry id="49" symbol="measure_throw"/>
+<entry field="true" id="21" symbol="lon_init"/>
+<entry field="true" id="40" symbol="menu_label_2"/>
+<entry field="true" id="39" symbol="menu_label_1"/>
+<entry id="16" object="true" symbol="DiscGolfApp"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry id="32" object="true" symbol="ThrowTypes"/>
+<entry id="8389347" symbol="color"/>
+<entry id="10" object="true" symbol="SaveThrowView"/>
+<entry field="true" id="44" symbol="longest_putt_label"/>
+<entry field="true" id="17" symbol="_view"/>
+<entry id="53" symbol="putt"/>
+<entry id="51" symbol="drive"/>
+<entry id="12" object="true" symbol="DiscGolfMenuDelegate"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="46" symbol="longest_mid"/>
+<entry field="true" id="19" symbol="distance_ft"/>
+<entry id="25" method="true" symbol="onPosition"/>
+<entry id="8388911" method="true" symbol="distance"/>
+<entry id="29" module="true" symbol="Layouts"/>
+<entry id="8388642" symbol="Position"/>
+<entry id="52" symbol="mid_range_throw"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="34" method="true" symbol="MeasureLayout"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8389063" symbol="identifier"/>
+<entry field="true" id="24" symbol="tapped"/>
+<entry id="11" object="true" symbol="DiscGolfModel"/>
+<entry id="28" module="true" symbol="Menus"/>
+<entry field="true" id="38" symbol="best_drive_label"/>
+<entry id="15" object="true" symbol="SaveThrowDelegate"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="50" symbol="stats"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435958" name="lat" stackId="2" startPc="268435892"/>
+<entry endPc="268435958" name="lon" stackId="3" startPc="268435892"/>
+<entry endPc="268436090" name="app" stackId="1" startPc="268435987"/>
+<entry endPc="268436404" name="lat" stackId="2" startPc="268436326"/>
+<entry endPc="268436404" name="lon" stackId="3" startPc="268436326"/>
+<entry endPc="268437470" name="app" stackId="2" startPc="268436407"/>
+<entry endPc="268437660" name="x" stackId="5" startPc="268437568"/>
+<entry endPc="268437660" name="distance" stackId="7" startPc="268437568"/>
+<entry endPc="268437660" name="y" stackId="6" startPc="268437568"/>
+<entry endPc="268437814" name="throw_dist" stackId="2" startPc="268437724"/>
+<entry endPc="268437814" name="app" stackId="1" startPc="268437724"/>
+<entry endPc="268438105" name="app" stackId="1" startPc="268438040"/>
+<entry endPc="268438876" name="longest_drive" stackId="3" startPc="268438108"/>
+<entry endPc="268438876" name="longest_putt" stackId="5" startPc="268438108"/>
+<entry endPc="268438876" name="throw_dist" stackId="2" startPc="268438108"/>
+<entry endPc="268438876" name="longest_mid" stackId="4" startPc="268438108"/>
+<entry endPc="268439470" name="app" stackId="1" startPc="268439251"/>
+<entry endPc="268440497" name="rez_cmp_local_bitmap_longest_mid_throw_fontHeight" stackId="5" startPc="268439701"/>
+<entry endPc="268440497" name="rez_cmp_local_bitmap_longest_drive_fontHeight" stackId="3" startPc="268439701"/>
+<entry endPc="268440497" name="rez_cmp_local_bitmap_longest_putt" stackId="6" startPc="268439701"/>
+<entry endPc="268440497" name="rez_cmp_local_bitmap_longest_mid_throw" stackId="4" startPc="268439701"/>
+<entry endPc="268440497" name="rez_cmp_local_bitmap_longest_putt_fontHeight" stackId="7" startPc="268439701"/>
+<entry endPc="268440497" name="rez_cmp_local_bitmap_longest_drive" stackId="2" startPc="268439701"/>
+<entry endPc="268441137" name="rez_cmp_local_bitmap_lon_initial" stackId="6" startPc="268440500"/>
+<entry endPc="268441137" name="rez_cmp_local_bitmap_cur_dist" stackId="2" startPc="268440500"/>
+<entry endPc="268441137" name="rez_cmp_local_bitmap_gps_accuracy_label" stackId="4" startPc="268440500"/>
+<entry endPc="268441137" name="rez_cmp_local_bitmap_lat_initial" stackId="5" startPc="268440500"/>
+<entry endPc="268441137" name="rez_cmp_local_bitmap_cur_dist_fontHeight" stackId="3" startPc="268440500"/>
+<entry endPc="268441495" name="rez_cmp_local_bitmap_feet_thrown_fontHeight" stackId="4" startPc="268441140"/>
+<entry endPc="268441495" name="rez_cmp_local_bitmap_instructions" stackId="2" startPc="268441140"/>
+<entry endPc="268441495" name="rez_cmp_local_bitmap_feet_thrown" stackId="3" startPc="268441140"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="DiscGolfView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DiscGolfView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DiscGolfView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPosition" parent="DiscGolfView">
+<param id="geoPositionInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DiscGolfView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DiscGolfView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MeasureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="MeasureView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="MeasureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPosition" parent="MeasureView">
+<param id="geoPositionInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MeasureView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitLat" parent="MeasureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitLon" parent="MeasureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="MeasureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="distance" parent="MeasureView">
+<param id="lat1"/>
+<param id="lon1"/>
+<param id="lat2"/>
+<param id="lon2"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SaveThrowView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="SaveThrowView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="SaveThrowView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="SaveThrowView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="SaveThrowView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DiscGolfMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="DiscGolfMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SaveThrowMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="SaveThrowMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DiscGolfDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="DiscGolfDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="DiscGolfDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SaveThrowDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="SaveThrowDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="SaveThrowDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DiscGolfApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DiscGolfApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="DiscGolfApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DiscGolfApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ThrowTypes">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MeasureLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="SaveThrowLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

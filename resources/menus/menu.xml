@@ -1,0 +1,12 @@
+<menus>
+    <menu id="MainMenu">
+   		<menu-item id="measure_throw">Measure Throw</menu-item>
+   		<menu-item id="stats">Stats</menu-item>
+	</menu>
+
+	<menu id="ThrowTypes">
+    	<menu-item id="drive">Drive</menu-item>
+    	<menu-item id="mid_range_throw">Mid-Range Throw</menu-item>
+    	<menu-item id="putt">Putt</menu-item>
+	</menu>
+</menus>

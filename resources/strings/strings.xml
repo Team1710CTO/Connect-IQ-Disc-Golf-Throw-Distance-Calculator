@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">Disc Golf</string>
+
+    <string id="best_drive_label">Longest Drive</string>
+    <string id="best_mid_label">Longest Mid-Throw</string>
+    <string id="best_putt_label">Longest Putt</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+</strings>
