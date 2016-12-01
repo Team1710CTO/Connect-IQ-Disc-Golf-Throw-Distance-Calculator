@@ -24,18 +24,18 @@ class DiscGolfMenuDelegate extends Ui.MenuInputDelegate {
 }
 
 class SaveThrowMenuDelegate extends Ui.MenuInputDelegate {
-	var _view, app;
+	var _view;
 	
 	function initialize() {
 		MenuInputDelegate.initialize();
 		_view = new SaveThrowView();
-		var app = App.getApp();
 	}
 	
 	function onMenuItem(item) {
 		//handle hi scores
+		var app = App.getApp();
 		var throw_dist, longest_drive, longest_mid, longest_putt;
-		throw_dist = app.getProperty("distance").toFloat();
+		throw_dist = app.getProperty("distance");
 		longest_drive = app.getProperty("longest_drive");
 		longest_mid = app.getProperty("longest_mid");
 		longest_putt = app.getProperty("longest_putt");

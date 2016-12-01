@@ -1,20 +1,27 @@
-<layouts>
+<resources>
 	<layout id="MainLayout">
-    	<label id="longest_drive" x="center" y="0" text="@Strings.best_drive_label" color="Gfx.COLOR_BLUE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
-    	<label id="longest_mid_throw" x="center" y="60" text="@Strings.best_mid_label" color="Gfx.COLOR_BLUE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
-    	<label id="longest_putt" x="center" y="120" text="@Strings.best_putt_label" color="Gfx.COLOR_BLUE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	    <drawable id="white_background"/>
+    	<label id="longest_drive" x="left" y="0" text="@Strings.best_drive_label" color="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    	<drawable id="divider_top"/>
+    	<label id="longest_mid_throw" x="left" y="60" text="@Strings.best_mid_label" color="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    	<drawable id="divider_bottom"/>
+    	<label id="longest_putt" x="left" y="120" text="@Strings.best_putt_label" color="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_CENTER" />
 	</layout>
 	
 	<layout id="MeasureLayout">
-	    <label id="cur_dist" x="center" y="center" color="Gfx.COLOR_RED"></label>
-	    <label id="gps_accuracy_label" x="left" y="90"></label>
+	    <drawable id="white_background"/>
+	    <label id="cur_dist" x="center" y="60" font="Gfx.FONT_LARGE" color="Gfx.COLOR_RED"></label>
+    	<drawable id="divider_bottom"/>
+	    <label id="gps_accuracy_label" x="left" y="120" color="Gfx.COLOR_BLACK"></label>
 	    <!-- for debugging -->
 	    <label id="lat_initial" x="left" y="0"></label>
-	   	<label id="lon_initial" x="left" y="10"></label>
+	   	<label id="lon_initial" x="left" y="25"></label>
 	</layout>
 	
 	<layout id="SaveThrowLayout">
-	    <label id="instructions" x="left" y="0" text="Press Menu to Select Disc Type"></label>
-	    <label id="feet_thrown" x="left" y="center" text="hey"></label>
+	    <drawable id="white_background"/>
+    	<drawable id="divider_bottom"/>
+	    <label id="instructions" x="left" y="120" text="Menu- Select Disc Type" color="Gfx.COLOR_BLACK"></label>
+	    <label id="feet_thrown" x="left" y="center" text="hey" color="Gfx.COLOR_BLACK"></label>
 	</layout>
-</layouts>
+</resources>

@@ -1,3 +1,15 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    
+    <drawable-list id="white_background">
+	        <shape type="rectangle" color="Gfx.COLOR_WHITE" x="0" y="0" width="fill" height="fill" />
+    </drawable-list>
+    
+    <drawable-list id="divider_top">
+	    <shape type="rectangle" color="Gfx.COLOR_BLACK" x="0" y="40" width="220" height="5" />
+    </drawable-list>
+    
+    <drawable-list id="divider_bottom">
+	    <shape type="rectangle" color="Gfx.COLOR_BLACK" x="0" y="100" width="220" height="5" />
+    </drawable-list>
 </drawables>

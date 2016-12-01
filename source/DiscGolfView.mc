@@ -67,13 +67,15 @@ class MeasureView extends Ui.View {
 	var longest_throw;
 	var init_found = false;
 	var tapped = false;
-	
+	var lat, lon;
+	var count;
+	var posnInfo;
 	
 	function initialize() {
 		var app = App.getApp();
         View.initialize();
         Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
-        longest_throw = app.getProperty("longest_drive");
+        longest_throw = app.getProperty("longest_drive").toNumber();
     }
 
     // Load your resources here
@@ -87,13 +89,14 @@ class MeasureView extends Ui.View {
     function onShow() {
     	View.findDrawableById("cur_dist").setText(distance_ft + " ft");
     	Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
-    	lat_init = Position.getInfo().position.toDegrees()[0]*57.3;
-    	lon_init = Position.getInfo().position.toDegrees()[1]*57.3;
+    	lat_init = Position.getInfo().position.toDegrees()[0];
+    	lon_init = Position.getInfo().position.toDegrees()[1];
     }
 	
 	function onPosition(geoPositionInfo) {
-    	var lat = geoPositionInfo.position.toDegrees()[0]*57.3;
-    	var lon = geoPositionInfo.position.toDegrees()[1]*57.3;
+    	lat = geoPositionInfo.position.toDegrees()[0];
+    	lon = geoPositionInfo.position.toDegrees()[1];
+    	posnInfo = geoPositionInfo;
     	Ui.requestUpdate();
 	}
 
@@ -120,12 +123,12 @@ class MeasureView extends Ui.View {
         			//View.findDrawableById("lon_initial").setText(lon_init.toString()); //for debugging
         			init_found = true;
         		}
-        		distance_ft = distance(lat_init, lon_init, Position.getInfo().position.toDegrees()[0]*57.3, Position.getInfo().position.toDegrees()[1]*57.3).toNumber();
-        		if(distance_ft > 0) {
+        		distance_ft = distance(lat_init, lon_init, Position.getInfo().position.toDegrees()[0], Position.getInfo().position.toDegrees()[1]).toNumber();
+        		if(init_found) {
         			View.findDrawableById("cur_dist").setText(distance_ft + " ft");
         			app.setProperty("distance", distance_ft);
         			if(distance_ft > 0 && longest_throw > 0) {
-        				if((distance_ft/longest_throw) < 0.25) {
+        				/*if((distance_ft/longest_throw) < 0.25) {
         					View.findDrawableById("cur_dist").setColor(Gfx.COLOR_RED);
         				} else if((distance_ft/longest_throw) > 0.25 && (distance_ft/longest_throw) < 0.5) {
         		    		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_ORANGE);
@@ -135,7 +138,7 @@ class MeasureView extends Ui.View {
         	        		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_GREEN);
         				} else {
         		    		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_GREEN);
-        				}
+        				}*/
         			} else {
         				View.findDrawableById("cur_dist").setColor(Gfx.COLOR_GREEN);
         			}
@@ -147,11 +150,11 @@ class MeasureView extends Ui.View {
     }
     
     function getInitLat() {
-    	return Position.getInfo().position.toDegrees()[0]*57.3;
+    	return Position.getInfo().position.toDegrees()[0];
     }
     
     function getInitLon() {
-    	return Position.getInfo().position.toDegrees()[1]*57.3;
+    	return Position.getInfo().position.toDegrees()[1];
     }
 
     // Called when this View is removed from the screen. Save the
@@ -161,11 +164,19 @@ class MeasureView extends Ui.View {
     }
     
     function distance(lat1, lon1, lat2, lon2) {
-		var x = ((lon2 - lon1)) * Math.cos(( (lat1 + lat2) / 2));
-		var y = (lat2 - lat1);
-		var distance = Math.sqrt(x * x + y * y) * 3959; //mult'd by earth's radius in feet
+		var x = deg2rad((lon2 - lon1)) * Math.cos(deg2rad( (lat1 + lat2) / 2));
+		var y = deg2rad(lat2 - lat1);
+		var distance = Math.sqrt(x * x + y * y) * 20900000; //mult'd by earth's radius in feet
 		return distance.format("%d");
    	 }
+   	 
+   	 function betterDistance(lat1, lon1, lat2, lon2) {
+   	 
+   	 }
+   	 
+	function deg2rad(deg) {
+  		return deg * (Math.PI/180);
+	}	 
 	
 }
 
