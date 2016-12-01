@@ -121,6 +121,7 @@ class MeasureView extends Ui.View {
         			lat_init = getInitLat();
         			//View.findDrawableById("lat_initial").setText(lat_init.toString()); //for debugging
         			//View.findDrawableById("lon_initial").setText(lon_init.toString()); //for debugging
+                    longest_throw = app.getProperty("longest_drive").toNumber();
         			init_found = true;
         		}
         		distance_ft = distance(lat_init, lon_init, Position.getInfo().position.toDegrees()[0], Position.getInfo().position.toDegrees()[1]).toNumber();
@@ -128,19 +129,20 @@ class MeasureView extends Ui.View {
         			View.findDrawableById("cur_dist").setText(distance_ft + " ft");
         			app.setProperty("distance", distance_ft);
         			if(distance_ft > 0 && longest_throw > 0) {
-        				/*if((distance_ft/longest_throw) < 0.25) {
+        				Sys.println(distance_ft/longest_throw);
+        				if((distance_ft/longest_throw) < 25) {
         					View.findDrawableById("cur_dist").setColor(Gfx.COLOR_RED);
-        				} else if((distance_ft/longest_throw) > 0.25 && (distance_ft/longest_throw) < 0.5) {
+        				} else if((distance_ft/longest_throw) > 25 && (distance_ft/longest_throw) < 50) {
         		    		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_ORANGE);
-        				} else if((distance_ft/longest_throw) > 0.5 && (distance_ft/lonngest_throw) < 1) {
+        				} else if((distance_ft/longest_throw) > 50 && (distance_ft/longest_throw) < 100) {
         		    		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_YELLOW);
-        				} else if((distance_ft/longest_throw) > 1) {
+        				} else if((distance_ft/longest_throw) > 100) {
         	        		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_GREEN);
         				} else {
-        		    		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_GREEN);
-        				}*/
+        		    		View.findDrawableById("cur_dist").setColor(Gfx.COLOR_RED);
+        				}
         			} else {
-        				View.findDrawableById("cur_dist").setColor(Gfx.COLOR_GREEN);
+        				View.findDrawableById("cur_dist").setColor(Gfx.COLOR_RED);
         			}
         		} else {
         			View.findDrawableById("cur_dist").setText(distance_ft + " ft");
