@@ -56,6 +56,180 @@
 <entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="124" pc="268436715" symbol="onUpdate"/>
 <entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="126" pc="268436728" symbol="onUpdate"/>
 <entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="127" pc="268436844" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="128" pc="268436877" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="129" pc="268436895" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="130" pc="268436906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="131" pc="268436952" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="132" pc="268436977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="145" pc="268437017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="148" pc="268437064" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="154" pc="268437117" symbol="getInitLat"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="155" pc="268437119" symbol="getInitLat"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="158" pc="268437157" symbol="getInitLon"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="159" pc="268437159" symbol="getInitLon"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="165" pc="268437197" symbol="onHide"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="168" pc="268437200" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="169" pc="268437202" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="170" pc="268437258" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="171" pc="268437276" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="172" pc="268437310" symbol="distance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="175" pc="268437328" symbol="betterDistance"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="179" pc="268437331" symbol="deg2rad"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="180" pc="268437333" symbol="deg2rad"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="187" pc="268437356" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="188" pc="268437358" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="191" pc="268437377" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="192" pc="268437379" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="195" pc="268437417" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="196" pc="268437419" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="197" pc="268437436" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="198" pc="268437454" symbol="onShow"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="201" pc="268437510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="202" pc="268437512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfView.mc" lineNum="205" pc="268437533" symbol="onHide"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="10" pc="268437537" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="11" pc="268437539" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="12" pc="268437557" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="15" pc="268437588" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="16" pc="268437590" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="17" pc="268437601" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="18" pc="268437622" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="20" pc="268437708" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="29" pc="268437733" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="30" pc="268437735" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="31" pc="268437753" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="34" pc="268437784" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="36" pc="268437786" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="37" pc="268437803" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="38" pc="268437803" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="39" pc="268437821" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="40" pc="268437839" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="41" pc="268437857" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="43" pc="268437875" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="44" pc="268437886" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="45" pc="268437894" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="46" pc="268437927" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="48" pc="268438002" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="51" pc="268438088" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="52" pc="268438096" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="53" pc="268438129" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="55" pc="268438204" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="58" pc="268438290" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="59" pc="268438298" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="60" pc="268438331" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="62" pc="268438406" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfMenuDelegate.mc" lineNum="65" pc="268438481" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="9" pc="268438503" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="10" pc="268438505" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="13" pc="268438524" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="14" pc="268438526" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="15" pc="268438610" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="18" pc="268438614" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="20" pc="268438616" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="26" pc="268438689" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="27" pc="268438691" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="30" pc="268438710" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="31" pc="268438712" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="32" pc="268438796" symbol="onMenu"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="35" pc="268438800" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfDelegate.mc" lineNum="37" pc="268438802" symbol="onTap"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="6" pc="268438875" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="7" pc="268438877" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="8" pc="268438894" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="9" pc="268438912" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="10" pc="268438933" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="13" pc="268438958" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="14" pc="268438979" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="17" pc="268439004" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="18" pc="268439025" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="21" pc="268439050" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="22" pc="268439071" symbol="initialize"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="27" pc="268439097" symbol="onStart"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="31" pc="268439100" symbol="onStop"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="35" pc="268439103" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Jake\\workspace\\Disc Golf\\source\\DiscGolfApp.mc" lineNum="36" pc="268439105" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="17" pc="268439173" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268439175" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268439193" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268439215" symbol="initialize"/>
+<entry filename="Rez" lineNum="29" pc="268439238" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268439240" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268439258" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268439280" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268439302" symbol="initialize"/>
+<entry filename="Rez" lineNum="46" pc="268439325" symbol="initialize"/>
+<entry filename="Rez" lineNum="47" pc="268439327" symbol="initialize"/>
+<entry filename="Rez" lineNum="50" pc="268439352" symbol="draw"/>
+<entry filename="Rez" lineNum="51" pc="268439354" symbol="draw"/>
+<entry filename="Rez" lineNum="52" pc="268439361" symbol="draw"/>
+<entry filename="Rez" lineNum="53" pc="268439368" symbol="draw"/>
+<entry filename="Rez" lineNum="54" pc="268439381" symbol="draw"/>
+<entry filename="Rez" lineNum="55" pc="268439394" symbol="draw"/>
+<entry filename="Rez" lineNum="58" pc="268439417" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="60" pc="268439419" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="61" pc="268439455" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="72" pc="268439560" symbol="initialize"/>
+<entry filename="Rez" lineNum="73" pc="268439562" symbol="initialize"/>
+<entry filename="Rez" lineNum="76" pc="268439587" symbol="draw"/>
+<entry filename="Rez" lineNum="77" pc="268439589" symbol="draw"/>
+<entry filename="Rez" lineNum="78" pc="268439596" symbol="draw"/>
+<entry filename="Rez" lineNum="79" pc="268439603" symbol="draw"/>
+<entry filename="Rez" lineNum="80" pc="268439616" symbol="draw"/>
+<entry filename="Rez" lineNum="81" pc="268439629" symbol="draw"/>
+<entry filename="Rez" lineNum="84" pc="268439652" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="86" pc="268439654" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="87" pc="268439690" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="98" pc="268439777" symbol="initialize"/>
+<entry filename="Rez" lineNum="99" pc="268439779" symbol="initialize"/>
+<entry filename="Rez" lineNum="102" pc="268439804" symbol="draw"/>
+<entry filename="Rez" lineNum="103" pc="268439806" symbol="draw"/>
+<entry filename="Rez" lineNum="104" pc="268439813" symbol="draw"/>
+<entry filename="Rez" lineNum="105" pc="268439820" symbol="draw"/>
+<entry filename="Rez" lineNum="106" pc="268439833" symbol="draw"/>
+<entry filename="Rez" lineNum="107" pc="268439846" symbol="draw"/>
+<entry filename="Rez" lineNum="110" pc="268439869" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="112" pc="268439871" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="113" pc="268439907" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="126" pc="268439994" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="128" pc="268439996" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="129" pc="268440032" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="130" pc="268440059" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="132" pc="268440075" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="133" pc="268440251" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="134" pc="268440287" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="135" pc="268440314" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="137" pc="268440330" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="138" pc="268440506" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="139" pc="268440542" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="140" pc="268440569" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="142" pc="268440585" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="145" pc="268440761" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="154" pc="268440829" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="156" pc="268440831" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="157" pc="268440867" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="158" pc="268440894" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="160" pc="268440910" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="161" pc="268441038" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="162" pc="268441063" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="163" pc="268441115" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="164" pc="268441151" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="165" pc="268441178" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="167" pc="268441194" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="168" pc="268441322" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="169" pc="268441430" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="172" pc="268441538" symbol="MeasureLayout"/>
+<entry filename="Rez" lineNum="181" pc="268441606" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="183" pc="268441608" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="184" pc="268441644" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="185" pc="268441671" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="187" pc="268441687" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="188" pc="268441723" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="189" pc="268441750" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="191" pc="268441766" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="192" pc="268441907" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="193" pc="268442063" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="194" pc="268442088" symbol="SaveThrowLayout"/>
+<entry filename="Rez" lineNum="197" pc="268442134" symbol="SaveThrowLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="8389306" symbol="lon"/>
@@ -145,6 +319,49 @@
 <entry endPc="268435958" name="lat" stackId="2" startPc="268435892"/>
 <entry endPc="268435958" name="lon" stackId="3" startPc="268435892"/>
 <entry endPc="268436099" name="app" stackId="1" startPc="268435987"/>
+<entry endPc="268437110" name="test_dist" stackId="3" startPc="268436626"/>
+<entry endPc="268437116" name="app" stackId="2" startPc="268436414"/>
+<entry endPc="268437327" name="x" stackId="5" startPc="268437202"/>
+<entry endPc="268437327" name="distance" stackId="7" startPc="268437202"/>
+<entry endPc="268437327" name="y" stackId="6" startPc="268437202"/>
+<entry endPc="268437509" name="throw_dist" stackId="2" startPc="268437419"/>
+<entry endPc="268437509" name="app" stackId="1" startPc="268437419"/>
+<entry endPc="268438502" name="longest_drive" stackId="4" startPc="268437786"/>
+<entry endPc="268438502" name="longest_putt" stackId="6" startPc="268437786"/>
+<entry endPc="268438502" name="throw_dist" stackId="3" startPc="268437786"/>
+<entry endPc="268438502" name="longest_mid" stackId="5" startPc="268437786"/>
+<entry endPc="268438502" name="app" stackId="2" startPc="268437786"/>
+<entry endPc="268439096" name="app" stackId="1" startPc="268438877"/>
+<entry endPc="268439416" name="pWidth" stackId="4" startPc="268439354"/>
+<entry endPc="268439416" name="pY" stackId="3" startPc="268439354"/>
+<entry endPc="268439416" name="pX" stackId="2" startPc="268439354"/>
+<entry endPc="268439416" name="pHeight" stackId="5" startPc="268439354"/>
+<entry endPc="268439651" name="pWidth" stackId="4" startPc="268439589"/>
+<entry endPc="268439651" name="pY" stackId="3" startPc="268439589"/>
+<entry endPc="268439651" name="pX" stackId="2" startPc="268439589"/>
+<entry endPc="268439651" name="pHeight" stackId="5" startPc="268439589"/>
+<entry endPc="268439868" name="pWidth" stackId="4" startPc="268439806"/>
+<entry endPc="268439868" name="pY" stackId="3" startPc="268439806"/>
+<entry endPc="268439868" name="pX" stackId="2" startPc="268439806"/>
+<entry endPc="268439868" name="pHeight" stackId="5" startPc="268439806"/>
+<entry endPc="268440828" name="rez_cmp_local_custom_drawable_divider_bottom" stackId="6" startPc="268439996"/>
+<entry endPc="268440828" name="rez_cmp_local_custom_drawable_divider_top" stackId="4" startPc="268439996"/>
+<entry endPc="268440828" name="rez_cmp_local_bitmap_longest_putt" stackId="7" startPc="268439996"/>
+<entry endPc="268440828" name="rez_cmp_local_custom_drawable_white_background" stackId="2" startPc="268439996"/>
+<entry endPc="268440828" name="rez_cmp_local_bitmap_longest_mid_throw" stackId="5" startPc="268439996"/>
+<entry endPc="268440828" name="rez_cmp_local_bitmap_longest_drive" stackId="3" startPc="268439996"/>
+<entry endPc="268441605" name="rez_cmp_local_bitmap_lon_initial" stackId="8" startPc="268440831"/>
+<entry endPc="268441605" name="rez_cmp_local_custom_drawable_divider_bottom" stackId="5" startPc="268440831"/>
+<entry endPc="268441605" name="rez_cmp_local_bitmap_cur_dist" stackId="3" startPc="268440831"/>
+<entry endPc="268441605" name="rez_cmp_local_bitmap_gps_accuracy_label" stackId="6" startPc="268440831"/>
+<entry endPc="268441605" name="rez_cmp_local_custom_drawable_white_background" stackId="2" startPc="268440831"/>
+<entry endPc="268441605" name="rez_cmp_local_bitmap_lat_initial" stackId="7" startPc="268440831"/>
+<entry endPc="268441605" name="rez_cmp_local_bitmap_cur_dist_fontHeight" stackId="4" startPc="268440831"/>
+<entry endPc="268442181" name="rez_cmp_local_custom_drawable_divider_bottom" stackId="3" startPc="268441608"/>
+<entry endPc="268442181" name="rez_cmp_local_bitmap_feet_thrown_fontHeight" stackId="6" startPc="268441608"/>
+<entry endPc="268442181" name="rez_cmp_local_custom_drawable_white_background" stackId="2" startPc="268441608"/>
+<entry endPc="268442181" name="rez_cmp_local_bitmap_instructions" stackId="4" startPc="268441608"/>
+<entry endPc="268442181" name="rez_cmp_local_bitmap_feet_thrown" stackId="5" startPc="268441608"/>
 </localVars>
 <annotations/>
 <functions>
